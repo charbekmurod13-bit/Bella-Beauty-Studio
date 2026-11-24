@@ -1,0 +1,8 @@
+{
+  "name": "Bella Beauty Studio",
+  "description": "Bella Go'zallik Studiyasi — elegant beauty salon app with curated treatments, specialist selection, interactive appointment booking, favorites, and profile management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

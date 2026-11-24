@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Bella</string>
+    <string name="brand_name">bella</string>
+    <string name="brand_subtitle">GO‘ZALLIK STUDIYASI</string>
+    <string name="welcome_badge">O‘ZINGIZGA E’TIBOR VAQTI</string>
+    <string name="welcome_title">Go‘zalligingizni\nkashf eting</string>
+    <string name="welcome_subtitle">Mohir qo‘llar. Tabiiy ishonch.\nSiz uchun mehr bilan yaratilgan parvarish.</string>
+    <string name="welcome_cta">Boshlash</string>
+    <string name="welcome_footer">DOIMO GO‘ZAL. DOIMO O‘ZINGIZ.</string>
+
+    <string name="nav_home">Asosiy</string>
+    <string name="nav_services">Xizmatlar</string>
+    <string name="nav_booking">Yozilish</string>
+    <string name="nav_favorites">Sevimlilar</string>
+    <string name="nav_profile">Profil</string>
+
+    <string name="home_eyebrow">BELLA GO‘ZALLIK STUDIYASI</string>
+    <string name="home_greeting">Salom, go‘zalim!</string>
+    <string name="home_search_hint">O‘zingizga mos parvarishni toping</string>
+    <string name="home_offer_eyebrow">XUSH KELIBSIZ</string>
+    <string name="home_offer_title">Ilk tashrifingiz\nyanada yoqimli.</string>
+    <string name="home_offer_subtitle">BELLA20 kodi bilan 20% chegirma</string>
+    <string name="home_offer_cta">Taklifni ko‘rish</string>
+    <string name="home_categories_title">Parvarishni tanlang</string>
+    <string name="home_featured_title">Siz sevgan xizmatlar</string>
+    <string name="home_specialists_title">Mutaxassislarimiz</string>
+    <string name="home_gallery_title">Studiya galereyasi</string>
+    <string name="see_all">Barchasi</string>
+
+    <string name="services_eyebrow">GO‘ZALLIK XIZMATLARI</string>
+    <string name="services_title">Husningiz ochilsin.</string>
+    <string name="services_subtitle">O‘zingizga vaqt ajrating. Go‘zallikni his eting.</string>
+    <string name="services_section_title">Maxsus xizmatlarimiz</string>
+    <string name="book_button">Yozilish</string>
+
+    <string name="booking_title">Go‘zallik vaqti</string>
+    <string name="booking_subtitle">Tafsilotlarni tanlang. Qolganini bizga qo‘ying.</string>
+    <string name="booking_specialist_title">Mutaxassisingiz</string>
+    <string name="booking_date_title">Sanani tanlang</string>
+    <string name="booking_time_title">Bo‘sh vaqtlar</string>
+    <string name="booking_local_time">Mahalliy vaqt</string>
+    <string name="booking_total_label">Jami xizmat narxi</string>
+    <string name="booking_pay_at_studio">Studiyada to‘lang</string>
+    <string name="booking_pay_note">Studiyada to‘lang · Hozir to‘lash shart emas</string>
+    <string name="booking_confirm_cta">Yozilishni tasdiqlash</string>
+
+    <string name="confirm_title">Go‘zallik kutmoqda.</string>
+    <string name="confirm_card_eyebrow">SIZNING TASHRIFINGIZ</string>
+    <string name="confirm_card_title">Faqat siz uchun vaqt.</string>
+    <string name="confirm_card_subtitle">Tanlangan parvarishingizga yozildingiz.</string>
+    <string name="confirm_payment_label">To‘lov</string>
+    <string name="confirm_payment_value">Studiyada</string>
+    <string name="confirm_location">Bella go‘zallik studiyasi · Rose ko‘chasi, 24</string>
+    <string name="confirm_view_appointments">Tashriflarimni ko‘rish</string>
+    <string name="confirm_return_home">Asosiy sahifaga qaytish</string>
+
+    <string name="favorites_eyebrow">MEHR BILAN SAQLANGAN</string>
+    <string name="favorites_title">Sevimli parvarishlaringiz.</string>
+    <string name="favorites_subtitle">Sevimli parvarishlaringiz bir joyda.</string>
+    <string name="favorites_footer_quote">O‘zingizga biroz vaqt ajrating.</string>
+
+    <string name="profile_eyebrow">SIZNING BELLANGIZ</string>
+    <string name="profile_title">O‘zingizga mehr bering.</string>
+    <string name="profile_edit">Profilni tahrirlash</string>
+    <string name="profile_loyalty_eyebrow">BELLA SODIQLIK DASTURI</string>
+    <string name="profile_loyalty_title">Sadoqatingizga mehrimiz cheksiz.</string>
+    <string name="profile_next_visit">Keyingi tashrifingiz</string>
+    <string name="profile_visit_history">Tashriflar tarixi</string>
+    <string name="profile_favorite_services">Sevimli xizmatlar</string>
+    <string name="profile_notifications">Bildirishnomalar</string>
+    <string name="status_confirmed">Tasdiqlandi</string>
+    <string name="details_link">Batafsil</string>
+</resources>
